@@ -59,7 +59,7 @@ main {
     padding-right: 15px;
     text-align: end;
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     align-items: center;
 }
 
@@ -68,7 +68,7 @@ main {
     content:url(https://i.postimg.cc/Zn1kTNwN/Group-8.png);
     display: flex;
     align-items: center;
-    justify-content: start;
+    justify-content: flex-start;
     padding-left: 7px;
 }
 
